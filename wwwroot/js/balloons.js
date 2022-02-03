@@ -15,3 +15,4 @@
          $('#' + this.id + 'Img').addClass('animated bounceOutUp');
     });
 });
+                
